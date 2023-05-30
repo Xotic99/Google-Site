@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url(images/bg.jpg);
+}
+
+.fbo {
+    float:right;
+    border: thin black solid;
+}
+
+#box{
+background-color: #FF9;
+width: 80%;
+border: solid black thin;
+margin: auto;
+}
+hr {
+    clear:both;
+}
